@@ -16,6 +16,7 @@ I. Connect the multimeter at the output of kit..
 
 
 CIRCUIT DIAGRAM:
+
 <img width="776" height="717" alt="image" src="https://github.com/user-attachments/assets/911f132c-48eb-49b1-9bac-389423849fc9" />
 
 <img width="1033" height="575" alt="image" src="https://github.com/user-attachments/assets/3c279426-5519-424c-a90c-fe3b22bc92d4" />
