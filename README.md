@@ -7,8 +7,6 @@ APPARATUS: - LVDT kit, Multimeter
 
 THEORY: - LVDT is basically a mutual inductance type transformer with variable coupling between the primary and two secondary coils. It is equivalent to E.Pick off in its operation except the reluctance of magnetic path is mostly due to air path. Uniformly wound over a certain length of transducer and two identical secondary coil systematically wound on either side of the primary coils and away from center. The iron rod is free to move inside the coil in either direction from the null point when primary coil is excitedly AC supply the induced emf of secondary are equal to each other with the core lying in null position. The secondary are connected in series with but in phase opposition so that resultant output voltage is zero.Displacement of core in either direction from the null position results in output voltage as read by an AC rms voltmeter and it is observed that there is a residual voltage at the null position. Due to capacitance coupling between primary and secondary and the characteristics of a linear over a limited  displacement.
 
-DIAGRAM:
-CIRCUIT DIAGRAM
 PROCEDURE: -
 I. Connect the multimeter at the output of kit..
 2. Set the range to a maximum value of 10 mm.
@@ -17,7 +15,20 @@ I. Connect the multimeter at the output of kit..
 5. Plot the graph between displacement and voltages on the graph paper.
 
 
-OBSERVATION TABLE
+CIRCUIT DIAGRAM:
+<img width="776" height="717" alt="image" src="https://github.com/user-attachments/assets/911f132c-48eb-49b1-9bac-389423849fc9" />
+
+<img width="1033" height="575" alt="image" src="https://github.com/user-attachments/assets/3c279426-5519-424c-a90c-fe3b22bc92d4" />
+
+<img width="773" height="540" alt="image" src="https://github.com/user-attachments/assets/f5932ce3-37ad-48d6-9085-40e597f58ae5" />
+
+<img width="1031" height="561" alt="image" src="https://github.com/user-attachments/assets/07968357-9ade-4896-bde0-86ba362e5887" />
+
+<img width="1050" height="656" alt="image" src="https://github.com/user-attachments/assets/9c71f6ed-962d-4d75-a781-fada0751df6e" />
+
+OBSERVATION TABLE:
+
+<img width="1208" height="571" alt="image" src="https://github.com/user-attachments/assets/b0a98285-38f5-4afa-a121-8e41c489589d" />
 
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
